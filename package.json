@@ -1,0 +1,8 @@
+{
+  "name": "multi-language-i18n",
+  "version": "1.0.0",
+  "description": "다국어 파일 생성기 (iOS, Android, React)",
+  "scripts": {
+    "generate-i18n": "node scripts/generate-i18n.js"
+  }
+}

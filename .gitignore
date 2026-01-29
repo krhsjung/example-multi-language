@@ -1,0 +1,5 @@
+# Generated translation files
+translations/
+
+# Node
+node_modules/
