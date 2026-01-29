@@ -1,0 +1,22 @@
+{
+  // Login Page
+  "login_title": "계정에 로그인하기",
+  "login_subtitle": "이메일과 비밀번호를 입력하거나 소셜 계정으로 로그인하세요.",
+  "login_continue_with": "또는 다음으로 계속하기",
+
+  // Signup Page
+  "signup_title": "계정 만들기",
+  "signup_subtitle": "간편하게 가입하고 시작하세요",
+  "signup_agree_to_terms": "이용약관에 동의합니다",
+  "signup_continue_with": "또는 다음으로 계속하기",
+
+  // Placeholders
+  "placeholder_email": "이메일을 입력하세요",
+  "placeholder_password": "비밀번호를 입력하세요",
+  "placeholder_confirm_password": "비밀번호를 확인하세요",
+  "placeholder_name": "이름을 입력하세요",
+
+  // OAuth Buttons
+  "oauth_google": "Google로 계속하기",
+  "oauth_apple": "Apple로 계속하기",
+}
