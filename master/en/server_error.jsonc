@@ -1,0 +1,10 @@
+{
+  "server_auth_credentials_invalid": "Invalid email or password",
+  "server_auth_provider_unsupported": "Unsupported auth provider",
+  "server_auth_session_not_found": "Session not found",
+  "server_auth_session_invalid": "Invalid session",
+  "server_auth_code_invalid": "Invalid or expired auth code",
+
+  "server_user_not_found": "User not found",
+  "server_user_already_exists": "User already exists",
+}
