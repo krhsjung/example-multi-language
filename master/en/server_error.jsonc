@@ -4,6 +4,7 @@
   "server_auth_session_not_found": "Session not found",
   "server_auth_session_invalid": "Invalid session",
   "server_auth_code_invalid": "Invalid or expired auth code",
+  "server_oauth_failed": "OAuth authentication failed",
 
   "server_user_not_found": "User not found",
   "server_user_already_exists": "User already exists",
