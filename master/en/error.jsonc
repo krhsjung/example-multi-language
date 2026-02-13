@@ -1,15 +1,15 @@
 {
   // General errors
-  "errorCancelled": "Cancelled",
-  "error_decoding": "Decoding error",
-  "error_encoding": "Encoding error",
-  "error_invalid_url": "Invalid url",
+  "error_cancelled": "Cancelled",
+  "error_decoding": "Failed to parse data",
+  "error_encoding": "Failed to encode data",
+  "error_invalid_url": "Invalid URL",
   "error_login_cancelled": "Login was cancelled",
   "error_login_failed": "Login failed",
-  "error_no_data": "No data",
+  "error_no_data": "No data available",
   "error_oauth_callback_failed": "Failed to receive callback URL",
   "error_signup_failed": "Signup failed",
-  "error_unknown": "Unknown error",
+  "error_unknown": "An unexpected error occurred",
 
   // Network errors
   "error_timeout": "Connection timed out. Please try again.",
@@ -37,6 +37,5 @@
   "error_password_no_uppercase": "Password must contain an uppercase letter",
   "error_password_no_lowercase": "Password must contain a lowercase letter",
   "error_password_no_number": "Password must contain a number",
-  "error_password_not_match": "Passwords do not match",
   "error_password_no_special_character": "Password must contain a special character",
 }

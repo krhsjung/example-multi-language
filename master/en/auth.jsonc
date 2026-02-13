@@ -1,13 +1,13 @@
 {
   // Login Page
-  "login_title": "Log in to Your Account",
   "login_subtitle": "Please enter your email and password to log in, or use a social account.",
+  "login_forget_password": "Forgot your password?",
   "login_continue_with": "Or continue with",
+  "login_no_account": "Don't have an account?",
 
   // Signup Page
-  "signup_title": "Create Your Account",
-  "signup_subtitle": "Sign up easily and get started",
-  "signup_agree_to_terms": "I agree to the terms and conditions",
+  "signup_subtitle": "Create a new account",
+  "signup_agree_to_terms_and_privacy": "I agree to the Terms of Service and Privacy Policy",
   "signup_continue_with": "Or continue with",
 
   // Placeholders
